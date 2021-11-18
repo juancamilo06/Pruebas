@@ -1,0 +1,17 @@
+/.gradle/
+/.idea/
+/.nb-gradle/
+/.classpath/
+/build/
+/dist/
+/logs/
+/nbproject/private/
+/out/
+/bin/
+*.iml
+*.json
+*.log
+*.exe
+*.zip
+*.txt
+Thumbs.db
