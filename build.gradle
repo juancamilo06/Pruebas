@@ -47,9 +47,9 @@ jar {
 sonarqube {
     properties {
         property "sonar.host.url", "https://sonarcloud.io"
-        property "sonar.login", "2e7818d4c50749bfcef2b46c50a479bbb0fc25a3"
-        property "sonar.organization", "sophos-rjrb-bitbucket"
-        property "sonar.projectKey", "com.sophos:DemoDO"
+        property "sonar.login", "b09fc1f6309bee6c744d3755a358f50cbd1c4527"
+        property "sonar.organization", "juancamilotobon06"
+        property "sonar.projectKey", "DemoDO-juancamilotobon06"
         property "sonar.scm.disabled", "True"
         property "sonar.coverage.jacoco.xmlReportPaths", "build/jacoco/test/jacocoTestReport.xml"
         property "sonar.java.coveragePlugin", "jacoco"
